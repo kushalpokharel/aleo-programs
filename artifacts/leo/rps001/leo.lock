@@ -1,0 +1,6 @@
+[[package]]
+name = "simple_token.aleo"
+network = "testnet3"
+location = "network"
+checksum = "70d99a466c1dd0dae05521e3526974c698b7939aea1f7e81143812c6c9336343"
+dependencies = []
